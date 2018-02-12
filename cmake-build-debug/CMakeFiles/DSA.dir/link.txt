@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/DSA.dir/HW1/scanFixationPointsApplication.c.o  -o DSA 

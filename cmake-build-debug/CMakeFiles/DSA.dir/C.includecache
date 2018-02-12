@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/femiphoenix/CLionProjects/DSA/HW1/scanFixationPoints.h
+stdio.h
+/home/femiphoenix/CLionProjects/DSA/HW1/stdio.h
+stdlib.h
+/home/femiphoenix/CLionProjects/DSA/HW1/stdlib.h
+string.h
+/home/femiphoenix/CLionProjects/DSA/HW1/string.h
+ctype.h
+-
+
+/home/femiphoenix/CLionProjects/DSA/HW1/scanFixationPointsApplication.c
+jmorecfg.h
+-
+scanFixationPoints.h
+/home/femiphoenix/CLionProjects/DSA/HW1/scanFixationPoints.h
+stdbool.h
+-
+
