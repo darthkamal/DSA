@@ -141,7 +141,6 @@
 
 */
 
-#include <jmorecfg.h>
 #include "scanFixationPoints.h"
 #include <stdbool.h>
 

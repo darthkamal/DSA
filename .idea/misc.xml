@@ -4,6 +4,7 @@
   <component name="CidrRootsConfiguration">
     <sourceRoots>
       <file path="$PROJECT_DIR$" />
+      <file path="$PROJECT_DIR$/HW3" />
     </sourceRoots>
   </component>
 </project>
