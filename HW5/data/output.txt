@@ -1,0 +1,38 @@
+dTogun
+Scenario 1
+@       
+*# #   
+*      
+***$ 
+Scenario 2
+                    
+  @                 
+  *                
+  *  # # # # # #   
+  *  # # # #       
+  *  # # # #       
+  ****# #       
+  # # # *          
+  # # # ****$   
+                    
+Scenario 3
+There is no path from (0, 0) to (1, 2)
+Scenario 4
+@ $ 
+Scenario 5
+There is no path from (0, 0) to (0, 1)
+Scenario 6
+@       
+*# #   
+*      
+***$ 
+Scenario 7
+@     
+**# 
+# *$ 
+Scenario 8
+$ @ 
+Scenario 9
+There is no path from (0, 1) to (2, 2)
+Scenario 10
+There is no path from (1, 1) to (2, 2)
